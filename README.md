@@ -1,6 +1,6 @@
 # `zenith-cpp`
 > Building software, small projects, trying to understand how things work under the hood.
-I'm a self-taught programmer. I'm interested in software development, systems programming and especially problem-solving.
+- I'm a self-taught programmer. I'm interested in software development, systems programming and especially problem-solving.
 
 # `zenith-cpp/languages.txt`
 - C++        - Primary language.
