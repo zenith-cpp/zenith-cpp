@@ -1,41 +1,32 @@
 # `zenith-cpp`
+> Building software, small projects, trying to understand how things work under the hood.
+I'm a self-taught programmer. I'm interested in software development, systems programming and especially problem-solving.
 
-> Building software, understanding systems, and learning how things work under the hood.
+# `zenith-cpp/languages.txt`
+- C++        - Primary language.
+- C#         - Application development.
+- Python     - Scripting and automation.
 
-I'm a self-taught programmer interested in software development, systems programming, and problem-solving.
+# `zenith-cpp/currently_learning.txt`
+- Software development in C++ Qt.
+- Systems programming in C++.
+- Rust programming language.
+- Web development in React.js and TypeScript.
 
-### `~/languages`
+# `zenith-cpp/projects.txt`
+-> [Check out my repositories.](https://github.com/zenith-cpp?tab=repositories)
 
-- **C++** — primary language
-- **C#** — application development
-- **Python** — scripting and automation
-- **Rust** — currently learning
+# `zenith-cpp/links.txt`
+- [Github](https://www.github.com/zenith-cpp)
+- [My projects](https://github.com/zenith-cpp?tab=repositories)
+- [Portfolio Website](https://yikebones.vercel.app)
 
-### `~/currently-learning`
-
-- Qt and GUI development
-- Git internals and workflows
-- Software architecture and data structures
-
-### `~/projects`
-
-A selection of things I've built and experiments I'm working on.
-
-→ [Explore my repositories](https://github.com/zenith-cpp?tab=repositories)
-
-### `~/links`
-
-- [Portfolio](https://yikebones.vercel.app/)
-- [GitHub](https://github.com/zenith-cpp)
-
----
-
-```cpp
-while (learning) {
-    build();
-    break_things();
-    understand();
+```
+while (zenith_cpp.is_alive()) {
+    for(int i=0; i<todo_list.size(); i++) {
+        zenith_cpp.learn(todo_list[i]);
+    }
+    zenith_cpp.build_project();
+    zenith_cpp.understand_subject();
 }
 ```
-
-<sub>Still figuring things out. One commit at a time.</sub>
