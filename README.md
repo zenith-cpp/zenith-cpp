@@ -4,8 +4,8 @@
 
 # `zenith-cpp/languages.txt`
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)        - Primary language.
-- C#         - Application development.
-- Python     - Scripting and automation.
+- ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)           - Application development.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)     - Scripting and automation.
 
 # `zenith-cpp/currently_learning.txt`
 - Software development in C++ Qt.
