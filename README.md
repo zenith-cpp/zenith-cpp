@@ -3,7 +3,7 @@
 - I'm a self-taught programmer. I'm interested in software development, systems programming and especially problem-solving.
 
 # `zenith-cpp/languages.txt`
-- C++        - Primary language.
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)        - Primary language.
 - C#         - Application development.
 - Python     - Scripting and automation.
 
