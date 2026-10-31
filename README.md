@@ -1,16 +1,41 @@
-## Hi there 👋
+# `zenith-cpp`
 
-<!--
-**zenith-cpp/zenith-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building software, understanding systems, and learning how things work under the hood.
 
-Here are some ideas to get you started:
+I'm a self-taught programmer interested in software development, systems programming, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `~/languages`
+
+- **C++** — primary language
+- **C#** — application development
+- **Python** — scripting and automation
+- **Rust** — currently learning
+
+### `~/currently-learning`
+
+- Qt and GUI development
+- Git internals and workflows
+- Software architecture and data structures
+
+### `~/projects`
+
+A selection of things I've built and experiments I'm working on.
+
+→ [Explore my repositories](https://github.com/zenith-cpp?tab=repositories)
+
+### `~/links`
+
+- [Portfolio](https://yikebones.vercel.app/)
+- [GitHub](https://github.com/zenith-cpp)
+
+---
+
+```cpp
+while (learning) {
+    build();
+    break_things();
+    understand();
+}
+```
+
+<sub>Still figuring things out. One commit at a time.</sub>
